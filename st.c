@@ -1,6 +1,8 @@
 #include <cs50.h>
 #include <stdio.h>
 
+//all that is just for fun! don't take it serious
+
 int main(void)
 {
     string n = get_string("your name : ");
