@@ -1,4 +1,5 @@
-# hey guys
-never mind , stay happy :)
-i made a small program 
-wishyou liked it :)
+#calculator
+it is simply , a calculator 
+wish you liked it :)
+stay happy :)
+
